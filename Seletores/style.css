@@ -1,0 +1,21 @@
+div {
+    display: inline-block;
+    width: 200px;
+     height: 200px;
+    }
+    .vermelho {
+       background-color: red; 
+    }
+    .azul {
+background-color: deepskyblue;
+    }
+    .verde {
+background-color: green;
+    }
+    .amarelo {
+background-color: gold;
+    }
+
+    .canto {
+        border: 2px solid black;
+    }
